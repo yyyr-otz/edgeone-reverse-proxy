@@ -8,7 +8,7 @@
 
 // 伪装域名列表 - 在此填写你的节点域名
 const PROXY_TARGETS = [
-  'ikefon-hugood.hf.space',
+  'cmpg1.pages.dev',
 ];
 
 // ==================== 核心逻辑 ====================
